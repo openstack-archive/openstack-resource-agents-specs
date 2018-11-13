@@ -145,7 +145,7 @@ References
   <https://etherpad.openstack.org/p/newton-instance-ha>`_
 
 - `"High Availability for Virtual Machines" user story
-  <http://specs.openstack.org/openstack/openstack-user-stories/user-stories/proposed/ha_vm.html>`_
+  <https://specs.openstack.org/openstack/openstack-user-stories/user-stories/proposed/ha_vm.html>`_
 
 - `video of "HA for Pets and Hypervisors" presentation at OpenStack conference in Austin
   <https://youtu.be/lddtWUP_IKQ>`_

@@ -20,7 +20,7 @@ respectively.
 Some notes about the openstack-resource-agents-spec and blueprint process:
 
 * Not all blueprints need a spec. For more information see
-  http://docs.openstack.org/developer/openstack-resource-agents/blueprints.html
+  https://docs.openstack.org/developer/openstack-resource-agents/blueprints.html
 
 * The aim of this document is first to define the problem we need to solve,
   and second agree the overall approach to solve that problem.

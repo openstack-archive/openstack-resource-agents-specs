@@ -374,7 +374,7 @@ Work Items
 - Add documentation to the |ha-guide|_ (``aspiers`` / ``beekhof``)
 
 .. |ha-guide| replace:: OpenStack High Availability Guide
-.. _ha-guide: http://docs.openstack.org/ha-guide/
+.. _ha-guide: https://docs.openstack.org/ha-guide/
 
 Dependencies
 ============
@@ -395,7 +395,7 @@ References
   (see also `the video of the talk <https://youtu.be/uMCMDF9VkYk?t=20m9s>`_)
 
 - `"High Availability for Virtual Machines" user story
-  <http://specs.openstack.org/openstack/openstack-user-stories/user-stories/proposed/ha_vm.html>`_
+  <https://specs.openstack.org/openstack/openstack-user-stories/user-stories/proposed/ha_vm.html>`_
 
 - `Video of "High Availability for Instances: Moving to a Converged Upstream Solution"
   presentation at OpenStack conference in Boston, May 2017

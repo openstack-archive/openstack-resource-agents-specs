@@ -161,7 +161,7 @@ Documentation Impact
 The service should be documented in the |ha-guide|_.
 
 .. |ha-guide| replace:: OpenStack High Availability Guide
-.. _ha-guide: http://docs.openstack.org/ha-guide/
+.. _ha-guide: https://docs.openstack.org/ha-guide/
 
 Assignee(s)
 -----------

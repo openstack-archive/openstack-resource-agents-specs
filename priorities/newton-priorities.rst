@@ -28,7 +28,7 @@ for each of the components which were agreed as necessary for a
 flexible, modular solution.
 
 .. _Adam Spiers: https://launchpad.net/~adam.spiers
-.. _High Availability for Virtual Machines: http://specs.openstack.org/openstack/openstack-user-stories/user-stories/proposed/ha_vm.html
+.. _High Availability for Virtual Machines: https://specs.openstack.org/openstack/openstack-user-stories/user-stories/proposed/ha_vm.html
 .. _Product Working Group: https://wiki.openstack.org/wiki/ProductTeam
 .. _weekly HA IRC meetings: https://wiki.openstack.org/wiki/Meetings/HATeamMeeting
 .. _newton-instance-ha etherpad: https://etherpad.openstack.org/p/newton-instance-ha
